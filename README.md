@@ -1,5 +1,6 @@
 # kotlinHavaDurumUygulamasi
-Kotlin dili kullanarak android studio üzerinde retrofit kütüphanesi üzerinden api istekleri gerçekleştirerek gerçekleştirdiğim hava durumu uygulamam. Farklı ekran yoğunlukları (ldpi,mdpi,hdpi,xhdpi,xxhdpi,xxxhdpi) için tasarımlar yapılmıştır.
+**Teknolojiler: **Kotlin, Retrofit, API Entegrasyonu <br>
+**Açıklama:** Gerçek zamanlı hava durumu verileri sunan, farklı ekran çözünürlüklerine uygun responsive Android uygulama.
 
 ![Uygulama Görseli ](https://github.com/muratcivek/kotlinHavaDurumUygulamasi/blob/main/uygulamaGoruntu/1.png)  
 ![Uygulama Görseli ](https://github.com/muratcivek/kotlinHavaDurumUygulamasi/blob/main/uygulamaGoruntu/2.png)  
